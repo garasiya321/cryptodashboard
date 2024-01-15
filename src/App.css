@@ -1,0 +1,19 @@
+
+
+.sidenav{
+  cursor:pointer;
+
+}
+.sidenav:hover{
+  background-color:rgba(211, 220, 222, 0.76);
+  font-weight: normal;
+  
+}
+.box3{
+  background-image: url("../public/images/bg-1.jpeg");
+  background-position: center;
+}
+.box4{
+  background-image:url("../public/images/bg-2.jpeg");
+  background-position: center;
+}
